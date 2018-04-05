@@ -1,5 +1,5 @@
-Terraform Example: Deploying CoreOS on AWS and running an image of Gollum
-=========================================================================
+Deploying CoreOS on AWS and running a Docker image of Gollum
+============================================================
 
  
 The purpose of this exercise is an initial introduction to AWS deployment using terraform.
